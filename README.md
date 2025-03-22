@@ -24,6 +24,12 @@ Our work aligns with AJL’s mission to reduce bias in AI and push for more equi
 - Shreya Narayanan
 
 ---
+## Table of Contents
+1. [Data Description](#data-description)
+2. [Repository Structure](#repository-structure)
+3. [Python Environment Set-up](#python-environment-set-up)
+4. [Package Installation](#package-installation)
+---
 ## Data Description
 
 We used the dataset provided through the Kaggle competition, which is a curated subset of the Fitzpatrick17k dataset. It includes around 4,500 dermatology images across 21 skin conditions and a range of skin tones based on the Fitzpatrick Scale (1–6).
@@ -36,11 +42,4 @@ Some of the features inclue:
 
 We did not use any external datasets, but we applied preprocessing and augmentation techniques to reduce class imbalance and improve model performance.
 
----
-## Table of Contents
-1. [Repository Structure](#repository-structure)
-2. [Python Environment Set-up](#python-environment-set-up)
-3. [Package Installation](#package-installation)
-4. [Description](#description)
-7. [Data](#data)
 ---
