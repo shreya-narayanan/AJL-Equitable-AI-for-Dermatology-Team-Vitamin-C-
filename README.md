@@ -4,16 +4,16 @@
 
 This project was developed as part of the Spring 2025 Break Through Tech AI Studio, in collaboration with the Algorithmic Justice League (AJL). The initiative brings together AI Fellows from various universities to work on a real-world machine learning challenge hosted on Kaggle.
 
-The goal of this challenge is to build a machine learning model that can classify 21 different dermatological conditions across diverse skin tones, using a subset of the Fitzpatrick17k dataset. The challenge addresses a pressing problem in dermatology AI: many existing models underperform on darker skin tones due to biased and non-inclusive training data.
+The goal of this challenge is to build a machine learning model that can classify 21 different dermatological conditions across diverse skin tones, using a subset of the Fitzpatrick17k dataset. The challenge addresses a pressing problem in dermatology AI: many existing models underperform on darker skin tones due to racially biased and non-inclusive training data.
 
-AI is increasingly used in healthcare, including dermatology. However, when models are trained primarily on light skin, they often fail to generalize to people with darker skin tones—leading to misdiagnoses, delayed treatment, and exacerbated health disparities.
+AI is increasingly used in healthcare, including dermatology. However, when models are trained primarily on light skin, they often fail to generalize to people with darker skin tones mwhich often results in misdiagnoses, delayed treatment, and health disparities.
 
-This project contributes to the broader mission of algorithmic fairness by:
+This project contributes to the broader real-world mission of algorithmic fairness by:
 
 - Highlighting how data representation affects model performance.
-- Evaluating and addressing bias using skin tone (Fitzpatrick Scale) as a fairness attribute.
-
-Our work aligns with AJL’s mission to illuminate AI harms, equip communities with advocacy tools, and push for more equitable AI systems in healthcare and beyond.
+- Evaluating and addressing bias using skin tone (Fitzpatrick Scale)
+  
+Our work aligns with AJL’s mission to reduce bias in AI and push for more equitable AI systems in healthcare.
 
 ---
 ## Team Members
