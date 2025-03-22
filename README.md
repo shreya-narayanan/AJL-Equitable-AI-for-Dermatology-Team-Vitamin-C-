@@ -1,6 +1,26 @@
 # Equitable AI for Dermatology: Team Vitamin C
 ---
-## Project Description
+## Team Members
+- Mohani Adem | @mohaniadem | Performed data augmentation and preprocessing
+- April Guo-Yue 
+- Melody He | @melodyhe21 | Built EfficientNet CNN Model and fine tuned
+- Madeleine Miller | Built ResNet CNN Model and fine tuned
+- Shreya Narayanan | @shreya-narayanan | Built InceptionV3 Model and fine tuned
+---
+## Table of Contents
+1. [Project Highlights](#project-highlights)
+2. [Environment Set-up](#environment-set-up)
+3. [Project Overview](#project-overview)
+4. [Data Description](#data-description)
+5. [Data Exploration](#data-exploration)
+6. [Model Development](#model-development)
+7. [Next Steps](#next-steps)
+
+## Project Highlights
+
+## Environment Set-up
+
+## Project Overview
 
 This project was developed as part of the Spring 2025 Break Through Tech AI Studio, in collaboration with the Algorithmic Justice League (AJL). The initiative brings together AI Fellows from various universities to work on a real-world machine learning challenge hosted on Kaggle.
 
@@ -16,20 +36,6 @@ This project contributes to the broader real-world mission of algorithmic fairne
 Our work aligns with AJL’s mission to reduce bias in AI and push for more equitable AI systems in healthcare.
 
 ---
-## Team Members
-- Mohani Adem
-- April Guo-Yue
-- [Melody He](https://github.com/melodyhe21)
-- Madeleine Miller
-- Shreya Narayanan
-
----
-## Table of Contents
-1. [Data Description](#data-description)
-2. [Repository Structure](#repository-structure)
-3. [Python Environment Set-up](#python-environment-set-up)
-4. [Package Installation](#package-installation)
----
 ## Data Description
 
 We used the dataset provided through the Kaggle competition, which is a curated subset of the Fitzpatrick17k dataset. It includes around 4,500 dermatology images across 21 skin conditions and a range of skin tones based on the Fitzpatrick Scale (1–6).
@@ -43,3 +49,8 @@ Some of the features inclue:
 We did not use any external datasets, but we applied preprocessing and augmentation techniques to reduce class imbalance and improve model performance.
 
 ---
+## Data Exploration 
+
+## Model Development
+
+## Next Steps
