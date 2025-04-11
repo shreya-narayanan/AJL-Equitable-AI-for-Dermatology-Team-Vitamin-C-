@@ -2,9 +2,9 @@
 ---
 ## Team Members
 - Mohani Adem | @mohaniadem | Performed data augmentation and preprocessing
-- April Guo-Yue 
+- April Guo-Yue | Data exploration & model development
 - Melody He | @melodyhe21 | Built EfficientNet CNN Model and fine tuned
-- Madeleine Miller | Built ResNet CNN Model and fine tuned
+- Madeleine Miller | @MadelineMiller | Built ResNet CNN Model and fine tuned
 - Shreya Narayanan | @shreya-narayanan | Built InceptionV3 Model and fine tuned
 ---
 ## Table of Contents
